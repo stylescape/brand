@@ -5,13 +5,11 @@
 
 </div>
 
----
-
-<div>
-    <img align="right" src="https://raw.githubusercontent.com/stylescape/brand/master/src/logo/logo_gray.png" width="96" alt="Stylescape Logo">
-    <h1 align="left">Stylescape</h1>
-    <h3 align="left">Brand Assets & Visual Identity Guide</h3>
-</div>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/stylescape/brand/master/src/logo/logo-transparant.png" width="20%" height="20%" alt="Stylescape Logo">
+</p>
+<h1 align="center" style='border-bottom: none;'>Stylescape</h1>
+<h3 align="center">Brand Assets & Visual Identity Guide</h3>
 
 ---
 
@@ -239,10 +237,6 @@ We use [IO Shields](https://shields.io/) combined with [simple-icons](https://si
 | **DOI**               | [![DOI](https://img.shields.io/badge/10.5281%2Fzenodo.8173471-DOI?style=flat-square&logo=DOI&logoColor=%23FFFFFF&label=&labelColor=%23041B26&color=%23041B26)](https://doi.org/10.5281/zenodo.8173471) | [/badges](https://shields.io/badges) | `DOI` |
 | **Zotero**            | [![Zotero](https://img.shields.io/badge/zotero.org%2Fgroups%2Fblock-Zotero?style=flat-square&logo=Zotero&logoColor=%23FFFFFF&label=&labelColor=%23041B26&color=%23041B26)](https://www.zotero.org/groups/block) | [/badges](https://shields.io/badges) | `Zotero` |
 | **Download**          | ![Download](https://img.shields.io/badge/File-File?style=flat-square&logo=files&logoColor=%23FFFFFF&label=Download%3A&labelColor=%23041B26&color=%23041B26&link=https%3A%2F%2Fgithub.com%2Fstylescape%2Fbrand%2Fblob%2Fmaster%2Fsrc%2Fcolor%2Fblock_foundation-color.scss) | [/badges](https://shields.io/badges) | `files` |
-| **Solidity**          | ![Solidity](https://img.shields.io/badge/&gt;&equals;&#32;0&period;6&period;8-File?style=flat-square&logo=Solidity&logoColor=%23FFFFFF&label=Solidity%3A&labelColor=%23041B26&color=%23041B26) | [/badges](https://shields.io/badges) | `Solidity` |
-| **Teal**              | ![Teal](https://img.shields.io/badge/&gt;&equals;&#32;0&period;6&period;8-File?style=flat-square&logo=Algorand&logoColor=%23FFFFFF&label=Teal%3A&labelColor=%23041B26&color=%23041B26) | [/badges](https://shields.io/badges) | `Algorand` |
-| **Substrate**         | ![Substrate](https://img.shields.io/badge/&gt;&equals;&#32;0&period;6&period;8-File?style=flat-square&logo=paritysubstrate&logoColor=%23FFFFFF&label=Substrate%3A&labelColor=%23041B26&color=%23041B26) | [/badges](https://shields.io/badges) | `paritysubstrate` |
-| **Hyperledger**       | ![Hyperledger](https://img.shields.io/badge/&gt;&equals;&#32;0&period;6&period;8-File?style=flat-square&logo=Hyperledger&logoColor=%23FFFFFF&label=Hyperledger%3A&labelColor=%23041B26&color=%23041B26) | [/badges](https://shields.io/badges) | `Hyperledger` |
 
 #### Repository Headers
 
