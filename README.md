@@ -1,6 +1,6 @@
 <div align="right">
 
-[![GitHub License](https://img.shields.io/github/license/stylescape/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/stylescape/brand/blob/main/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/stylescape/brand?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/stylescape/brand/blob/main/LICENSE)
 [![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/stylescape/brand)
 
 </div>
@@ -110,24 +110,20 @@ We us `Barlow`.
 
 #### Brand Name
 
-Capitalize the "B" and "F" in "Stylescape" in all copy text. The Stylescape should only be presented in all uppercase when displayed in our official logos; e.g.: "BLOCK FOUNDATION". In code, "block_foundation" is all lowercase / snakecase.
+Capitalize the first "S" in "Stylescape" in all copy text. Stylescape should only be presented in all uppercase when displayed in our official logos; e.g.: "STYLESCAPE". In code, "stylescape" is all lowercase / snakecase.
 
-- ✓ BLOCK FOUNDATION `(in Logo)`
+- ✓ STYLESCAPE `(in Logo)`
 - ✓ Stylescape `(in Text)`
-- ✓ block_foundation `(in Code)`
-- × BlockFoundation
-- × blockFoundation
-- × Block-Foundation
+- ✓ stylescape `(in Code)`
+- × StyleScape
 - × stylescape
-- × block foundation
+- × Style-scape
+- × Style scape
+- × Style Acape
 
 #### Headers
 
 All headers are written in Title Case.
-
-#### Emoji's
-
-We don't use them, ever.
 
 ## Color
 
@@ -156,14 +152,6 @@ Our repositories use the following artworks to make them just a little bit moe e
 | Color | Monochrome | Acccent |
 | ----- | ---------- | ------- |
 | [<img align="center" src="https://raw.githubusercontent.com/stylescape/brand/master/src/image/repository_cover/block_foundation-structure-03-color.jpg" width="100%">](https://github.com/stylescape/brand/master/src/image/repository_cover/block_foundation-structure-03-color.jpg)*`structure-03-color`* | [<img align="center" src="https://raw.githubusercontent.com/stylescape/brand/master/src/image/repository_cover/block_foundation-structure-03-mono.jpg" width="100%">](https://github.com/stylescape/brand/master/src/image/repository_cover/block_foundation-structure-03-mono.jpg)*`structure-03-mono`* | [<img align="center" src="https://raw.githubusercontent.com/stylescape/brand/master/src/image/repository_cover/block_foundation-structure-03-accent.jpg" width="100%">](https://github.com/stylescape/brand/master/src/image/repository_cover/block_foundation-structure-03-accent.jpg)*`structure-03-accent`* |
-
-### Photography
-
-`Will be provided shortly.`
-
-### Banners
-
-`Will be provided shortly.`
 
 ## Diagrams
 
@@ -242,7 +230,7 @@ We use [IO Shields](https://shields.io/) combined with [simple-icons](https://si
 
 |                       |       | shield.io url   | simpleicons tag   |
 | :-------------------- | :---- | :---- | :---- |
-| **License**           | [![GitHub License](https://img.shields.io/github/license/stylescape/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/stylescape/brand/blob/main/LICENSE) | [/badges/git-hub](https://shields.io/badges/git-hub) | `readthedocs` |
+| **License**           | [![GitHub License](https://img.shields.io/github/license/stylescape/brand?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/stylescape/brand/blob/main/LICENSE) | [/badges/git-hub](https://shields.io/badges/git-hub) | `readthedocs` |
 | **Docker Pulls**      | [![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Pulls:&labelColor=%23041B26&color=%23041B26)](https://hub.docker.com/r/blockfoundation/ethereum-client) | `docker` |
 | **Docker Stars**      | [![Docker Stars](https://img.shields.io/docker/stars/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Stars:&labelColor=%23041B26&color=%23041B26)](https://hub.docker.com/r/blockfoundation/ethereum-client) | [/badges/docker-stars](https://shields.io/badges/docker-stars) | `docker` |
 | **Docker Version**    | [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/blockfoundation/ethereum-client?sort=semver&style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Version:&labelColor=%23041B26&color=%23041B26)](https://hub.docker.com/r/blockfoundation/ethereum-client/tags) | [/badges/docker-stars](https://shields.io/badges/docker-stars) | `docker` |
@@ -264,7 +252,7 @@ All repositories include the basic header, in some cases combined with additiona
 
 <div align="right">
 
-[![GitHub License](https://img.shields.io/github/license/stylescape/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/stylescape/brand/blob/main/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/stylescape/brand?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/stylescape/brand/blob/main/LICENSE)
 [![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/stylescape/brand)
 
 </div>
@@ -285,7 +273,7 @@ All repositories include the basic header, in some cases combined with additiona
 
 <div align="right">
 
-[![GitHub License](https://img.shields.io/github/license/stylescape/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/stylescape/brand/blob/main/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/stylescape/brand?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/stylescape/brand/blob/main/LICENSE)
 [![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/stylescape/brand)
 [![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Pulls:&labelColor=%23041B26&color=%23041B26)](https://hub.docker.com/r/blockfoundation/ethereum-client)
 [![Docker Stars](https://img.shields.io/docker/stars/blockfoundation/ethereum-client?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Stars:&labelColor=%23041B26&color=%23041B26)](https://hub.docker.com/r/blockfoundation/ethereum-client)
@@ -299,7 +287,7 @@ All repositories include the basic header, in some cases combined with additiona
 
 <div align="right">
 
-[![GitHub License](https://img.shields.io/github/license/stylescape/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/stylescape/brand/blob/main/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/stylescape/brand?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/stylescape/brand/blob/main/LICENSE)
 [![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/stylescape/brand)
 
 </div>
@@ -308,7 +296,7 @@ All repositories include the basic header, in some cases combined with additiona
 
 <div align="right">
 
-[![GitHub License](https://img.shields.io/github/license/stylescape/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/stylescape/brand/blob/main/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/stylescape/brand?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/stylescape/brand/blob/main/LICENSE)
 [![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/stylescape/brand)
 
 </div>
