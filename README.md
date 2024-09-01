@@ -1,7 +1,8 @@
 <div align="right">
 
 [![GitHub License](https://img.shields.io/github/license/stylescape/brand?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/stylescape/brand/blob/main/LICENSE)
-[![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/stylescape/brand)
+[![devContainer](https://img.shields.io/badge/devContainer-23041B26?style=flat-square&logo=Docker&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/stylescape/brand)
+[![StackBlitz](https://img.shields.io/badge/StackBlitz-23041B26?style=flat-square&logo=StackBlitz&logoColor=%23FFFFFF&labelColor=%23041B26&color=%23041B26)](https://stackblitz.com/github/stylescape/brand/tree/main?file=src%2Findex.html)
 
 </div>
 
@@ -23,9 +24,6 @@
 - [Graphics](#graphics)
 - [Diagrams](#diagrams)
 - [Elements](#elements)
-- [Frameworks](#frameworks)
-- [Templates](#templates)
-- [Syntax](#syntax)
 - [Colophon](#colophon)
 
 <br clear="both"/>
@@ -276,7 +274,6 @@ All repositories include the basic header, in some cases combined with additiona
 
 </div>
 
-
 ##### TypeScript / NPM Repository Header
 
 <div align="right">
@@ -294,6 +291,5 @@ All repositories include the basic header, in some cases combined with additiona
 [![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/stylescape/brand)
 
 </div>
-
 
 ---
