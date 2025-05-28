@@ -18,6 +18,7 @@
     "files.insertFinalNewline": true,                   // Ensure a final newline at the end of files
     "files.associations": {
         "*.jinja": "jinja",
+        "*.html.jinja": "jinja-html",
         "*.yml": "yaml",
         "*.yaml": "yaml"
     },
